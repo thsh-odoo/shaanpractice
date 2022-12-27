@@ -1,0 +1,92 @@
+.bodyfont
+{
+   background-color: lavender ;
+   font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-style: oblique;
+}
+#my
+{
+   font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: x-large;
+   font-weight: bold;
+   color: black;
+   text-shadow: 1px 0px;                
+   
+}
+img
+{
+   height: 180px;
+   position: absolute;
+   left: 1500px;
+   border-color: violet;
+   border-radius: 1cm;
+   box-shadow: 3px 3px ;
+   border-width: 5;
+}
+input
+{
+   border-radius: 1cm;
+   border-style: ridge;
+   font-style: oblique;
+   color: darkorchid;
+   border-color: darkorchid;
+   font-size: x-large;
+}
+textarea
+{
+   border-style: dashed;
+   font-style: oblique;
+   color: darkorchid;
+   border-color: darkorchid;
+   font-size: x-large;
+}
+fieldset
+{
+   border-color: violet;
+   box-shadow: 12px;
+}
+h2
+{
+   color: darkorchid;
+   text-shadow: 1px 0px;
+}
+b
+{
+   font-size: large;
+}
+button
+{
+   border-radius: 2cm;
+   font-size: x-large;
+}
+#submit
+{
+   background-color: lightgreen;
+   size: 100cm;
+}
+#reset
+{
+   background-color: lightcoral;
+}
+#edu
+{
+   color: black;
+   text-shadow: 1px 0px;
+}
+.large
+{
+   transform:scale(2);
+}
+.titelsize
+{
+   font-size: xx-large;
+   color: darkorchid;
+   text-shadow: 1px 0px;
+   text-align: center;
+   font-weight: 300;
+}
+legend
+{
+   color: darkorchid;
+   font-size: x-large ;
+}
